@@ -1,0 +1,23 @@
+# VSCode 配置
+.vscode/
+
+# Python 缓存
+__pycache__/
+
+# 数据集
+dataset/
+datasets/
+data/
+
+# 可视化结果
+vis/
+
+# 模型权重
+*.pth
+*.pt
+*.ckpt
+
+# 日志
+runs/
+logs/
+wandb/
