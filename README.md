@@ -71,8 +71,6 @@ U-Net/
 
 ---
 
----
-
 ## 🚀 训练
 
 ```bash
@@ -82,12 +80,12 @@ python main.py
 - 自动保存 best model（基于 val Dice）
 - 记录 loss / dice 数值变化
 - 保存预测可视化结果
-
+---
 ## 📈 实验结果
 |dataset|Loss|Val Dice|
 |---|---|---|
 |CVC-Val|0.1063|0.8747|
-
+---
 ## 论文原文下载
 - U-Net: Convolutional Networks for Biomedical Image Segmentation
   https://arxiv.org/pdf/1505.04597.pdf
